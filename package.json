@@ -1,0 +1,19 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-tts": "^1.2.0",
+    "discord.js": "^11.5.1",
+    "discord.js-self": "^12.0.4",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
